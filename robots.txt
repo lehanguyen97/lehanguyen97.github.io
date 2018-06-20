@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://lehanguyen97.github.io/sitemap.xml
