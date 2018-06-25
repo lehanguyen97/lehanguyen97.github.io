@@ -1,106 +1,106 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<?xml-stylesheet type="text/xsl" href="https://lehanguyen97.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://hagun.ml/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lehanguyen97.github.io/post/create-a-blog/</loc>
+    <loc>https://hagun.ml/post/create-a-blog/</loc>
     <lastmod>2018-06-24T22:11:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lehanguyen97.github.io/about/</loc>
+    <loc>https://hagun.ml/about/</loc>
     <lastmod>2018-06-21T12:39:17+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lehanguyen97.github.io/post/testpage/</loc>
+    <loc>https://hagun.ml/post/testpage/</loc>
     <lastmod>2018-06-20T14:26:59+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lehanguyen97.github.io/categories/</loc>
+    <loc>https://hagun.ml/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lehanguyen97.github.io/tags/even/</loc>
+    <loc>https://hagun.ml/tags/even/</loc>
     <lastmod>2018-06-24T22:11:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lehanguyen97.github.io/categories/experience/</loc>
+    <loc>https://hagun.ml/categories/experience/</loc>
     <lastmod>2018-06-24T22:11:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lehanguyen97.github.io/tags/github-pages/</loc>
+    <loc>https://hagun.ml/tags/github-pages/</loc>
     <lastmod>2018-06-24T22:11:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lehanguyen97.github.io/</loc>
+    <loc>https://hagun.ml/</loc>
     <lastmod>2018-06-24T22:11:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lehanguyen97.github.io/tags/hugo/</loc>
+    <loc>https://hagun.ml/tags/hugo/</loc>
     <lastmod>2018-06-24T22:11:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lehanguyen97.github.io/tags/markdown/</loc>
+    <loc>https://hagun.ml/tags/markdown/</loc>
     <lastmod>2018-06-20T14:26:59+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lehanguyen97.github.io/tags/mathjax/</loc>
+    <loc>https://hagun.ml/tags/mathjax/</loc>
     <lastmod>2018-06-20T14:26:59+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lehanguyen97.github.io/post/</loc>
+    <loc>https://hagun.ml/post/</loc>
     <lastmod>2018-06-24T22:11:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lehanguyen97.github.io/tags/rant/</loc>
+    <loc>https://hagun.ml/tags/rant/</loc>
     <lastmod>2018-06-24T22:11:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lehanguyen97.github.io/tags/</loc>
+    <loc>https://hagun.ml/tags/</loc>
     <lastmod>2018-06-24T22:11:22+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lehanguyen97.github.io/categories/uncategorized/</loc>
+    <loc>https://hagun.ml/categories/uncategorized/</loc>
     <lastmod>2018-06-20T14:26:59+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>

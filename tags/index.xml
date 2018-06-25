@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hagun&#39;s Blog</title>
-    <link>https://lehanguyen97.github.io/tags/</link>
+    <link>https://hagun.ml/tags/</link>
     <description>Recent content in Tags on Hagun&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 24 Jun 2018 22:11:22 +0700</lastBuildDate>
     
-	<atom:link href="https://lehanguyen97.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hagun.ml/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Even</title>
-      <link>https://lehanguyen97.github.io/tags/even/</link>
+      <link>https://hagun.ml/tags/even/</link>
       <pubDate>Sun, 24 Jun 2018 22:11:22 +0700</pubDate>
       
-      <guid>https://lehanguyen97.github.io/tags/even/</guid>
+      <guid>https://hagun.ml/tags/even/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Github Pages</title>
-      <link>https://lehanguyen97.github.io/tags/github-pages/</link>
+      <link>https://hagun.ml/tags/github-pages/</link>
       <pubDate>Sun, 24 Jun 2018 22:11:22 +0700</pubDate>
       
-      <guid>https://lehanguyen97.github.io/tags/github-pages/</guid>
+      <guid>https://hagun.ml/tags/github-pages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://lehanguyen97.github.io/tags/hugo/</link>
+      <link>https://hagun.ml/tags/hugo/</link>
       <pubDate>Sun, 24 Jun 2018 22:11:22 +0700</pubDate>
       
-      <guid>https://lehanguyen97.github.io/tags/hugo/</guid>
+      <guid>https://hagun.ml/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>https://lehanguyen97.github.io/tags/markdown/</link>
+      <link>https://hagun.ml/tags/markdown/</link>
       <pubDate>Wed, 20 Jun 2018 14:26:59 +0700</pubDate>
       
-      <guid>https://lehanguyen97.github.io/tags/markdown/</guid>
+      <guid>https://hagun.ml/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mathjax</title>
-      <link>https://lehanguyen97.github.io/tags/mathjax/</link>
+      <link>https://hagun.ml/tags/mathjax/</link>
       <pubDate>Wed, 20 Jun 2018 14:26:59 +0700</pubDate>
       
-      <guid>https://lehanguyen97.github.io/tags/mathjax/</guid>
+      <guid>https://hagun.ml/tags/mathjax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rant</title>
-      <link>https://lehanguyen97.github.io/tags/rant/</link>
+      <link>https://hagun.ml/tags/rant/</link>
       <pubDate>Sun, 24 Jun 2018 22:11:22 +0700</pubDate>
       
-      <guid>https://lehanguyen97.github.io/tags/rant/</guid>
+      <guid>https://hagun.ml/tags/rant/</guid>
       <description></description>
     </item>
     

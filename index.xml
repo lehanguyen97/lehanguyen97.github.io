@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hagun&#39;s Blog</title>
-    <link>https://lehanguyen97.github.io/</link>
+    <link>https://hagun.ml/</link>
     <description>Recent content on Hagun&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 24 Jun 2018 22:11:22 +0700</lastBuildDate>
     
-	<atom:link href="https://lehanguyen97.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hagun.ml/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Create a Blog</title>
-      <link>https://lehanguyen97.github.io/post/create-a-blog/</link>
+      <link>https://hagun.ml/post/create-a-blog/</link>
       <pubDate>Sun, 24 Jun 2018 22:11:22 +0700</pubDate>
       
-      <guid>https://lehanguyen97.github.io/post/create-a-blog/</guid>
+      <guid>https://hagun.ml/post/create-a-blog/</guid>
       <description>Welcome  Warning: Rant, Noob
  Just to let you know, I&amp;rsquo;m not a web designer or developer. I&amp;rsquo;m a normal (poor) electronics student who haven&amp;rsquo;t got a credit card.
 To have this blog being read by someone other than myself, in my opinion, is a hard work. My goal is to host a simple website where I can write something to keep myself being motivated.
@@ -25,10 +25,10 @@ I wouldn&amp;rsquo;t want to spend money on hosting, it&amp;rsquo;s not because 
     
     <item>
       <title>About</title>
-      <link>https://lehanguyen97.github.io/about/</link>
+      <link>https://hagun.ml/about/</link>
       <pubDate>Thu, 21 Jun 2018 12:39:17 +0700</pubDate>
       
-      <guid>https://lehanguyen97.github.io/about/</guid>
+      <guid>https://hagun.ml/about/</guid>
       <description>I&amp;rsquo;m a student of FETEL HCMUS. This site is just a place where I can sumarize my experience. The main subject of this blog besides my rant will be about electronic, coding and neural network. Hopefully I&amp;rsquo;ll have the motivation for this.
 About the site: I&amp;rsquo;m using Hugo to generate this site, my page&amp;rsquo;s theme is Even.
 Many thanks to Github, Hugo, and olOwOlo (Even theme dev) for making this blog come to life.</description>
@@ -36,10 +36,10 @@ Many thanks to Github, Hugo, and olOwOlo (Even theme dev) for making this blog c
     
     <item>
       <title>Testpage</title>
-      <link>https://lehanguyen97.github.io/post/testpage/</link>
+      <link>https://hagun.ml/post/testpage/</link>
       <pubDate>Wed, 20 Jun 2018 14:26:59 +0700</pubDate>
       
-      <guid>https://lehanguyen97.github.io/post/testpage/</guid>
+      <guid>https://hagun.ml/post/testpage/</guid>
       <description>Just a test page It&amp;rsquo;s been a long time since I&amp;rsquo;ve been looking for a solution for my blog. A CMS is easy to use but it requires dedicated server and I didn&amp;rsquo;t want that. After searching for a while, I went with static page.
 It&amp;rsquo;s a little steep learning curve for an electrical student, but the result is worth the effort.
 I just want to test some functions for my blog, so this post come first.</description>
