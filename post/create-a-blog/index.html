@@ -71,7 +71,7 @@
 
 <meta itemprop="datePublished" content="2018-06-24T22:11:22&#43;07:00" />
 <meta itemprop="dateModified" content="2018-06-24T22:11:22&#43;07:00" />
-<meta itemprop="wordCount" content="993">
+<meta itemprop="wordCount" content="1032">
 
 
 
@@ -111,6 +111,8 @@
         <li class="mobile-menu-item">Tags</li>
       </a><a href="/categories/">
         <li class="mobile-menu-item">Categories</li>
+      </a><a href="/about">
+        <li class="mobile-menu-item">About</li>
       </a>
   </ul>
 </nav>
@@ -130,6 +132,8 @@
         <a class="menu-item-link" href="/tags/">Tags</a>
       </li><li class="menu-item">
         <a class="menu-item-link" href="/categories/">Categories</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/about">About</a>
       </li>
   </ul>
 </nav>
@@ -241,7 +245,8 @@ I went with <a href="https://www.heroku.com/">Heroku</a> after found some guide 
 But the bad news comes when I start working with database.
 The only free database work without credit-card verification is Postgres which support has been drop by Ghost.</p>
 
-<p>Heroku also has sleep time and some limit which I don&rsquo;t like too. But I&rsquo;m not blaming them for such a great free service.</p>
+<p>Heroku also has sleep time and some limit which I don&rsquo;t like too.
+But I&rsquo;m not blaming them for such a great free service.</p>
 
 <p>Well, it&rsquo;s not easy to get some free-service without identity.</p>
 
@@ -253,13 +258,15 @@ I would write some Markdown file with VS Code and lets my head not being filled 
 <p>And here comes a comment which suggests host Static Site on Github for free.
 I&rsquo;ve seen some Github Pages (site ends with <strong>github.io</strong>) without knowing about it.</p>
 
-<p>Github Pages provides a free github.io domain and HTTPS for custom domain.</p>
+<p>Static Site is a bunch of pages which don&rsquo;t asks server for anything but the data it&rsquo;ve been stored.
+Perfectly fine with me as long as I have something to keep my post organized (which I use Hugo for).</p>
 
-<p>I considered Gitlab for free privated repo but, it&rsquo;s not important.</p>
+<p>Github Pages provides a free github.io domain and HTTPS for custom domain.
+I considered Gitlab for free privated repo but, it&rsquo;s not important.</p>
 
 <h2 id="choosing-static-site-generator">Choosing Static Site Generator</h2>
 
-<p>Github offers to build static site with <a href="https://jekyllrb.com/">Jekyll</a>, the most used static site generator (<em>SSG</em>).
+<p>Github offers to build static site with <a href="https://jekyllrb.com/">Jekyll</a>, the most used Static Site Generator (<em>SSG</em>).
 It&rsquo;s come with a lot of great built-in theme, plugin due to its large user base. I just have to clone then build with Jekyll on my PC.</p>
 
 <p>But I don&rsquo;t like installing Ruby (&gt;100MB) and get a slow building speed.
@@ -333,6 +340,22 @@ But knowledge is always a good thing, right?</p>
   </article>
         </div>
         
+  <div id="disqus_thread"></div>
+    <script type="text/javascript">
+    (function() {
+      
+      
+      if (window.location.hostname === 'localhost') return;
+
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      var disqus_shortname = 'nguyenchuotqn';
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+  
 
       </div>
     </main>
